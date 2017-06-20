@@ -1,0 +1,9 @@
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\bin\Debug\Arboles con expresiones.exe.config
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\obj\Debug\Arboles con expresiones.csprojResolveAssemblyReference.cache
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\obj\Debug\Arboles_con_expresiones.Properties.Resources.resources
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\obj\Debug\Arboles con expresiones.csproj.GenerateResource.Cache
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\bin\Debug\Arboles con expresiones.exe
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\bin\Debug\Arboles con expresiones.pdb
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\obj\Debug\Arboles con expresiones.exe
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\obj\Debug\Arboles con expresiones.pdb
+C:\Users\reyin\Desktop\Arboles con expresiones\Arboles con expresiones\obj\Debug\Arboles_con_expresiones.Form1.resources
